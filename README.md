@@ -8,6 +8,15 @@ Presented by [Nikolaos-Ioannis Bountos](https://ngbountos.github.io/) (1), [Ioan
 
 (2) [Image & Signal Processing Group](https://isp.uv.es/), Universitat de València
 
+## 🕸️ Quick Links
+
+TODO: Add correct links
+
+* [Presentations](/)
+* [Notebooks](/)
+* [IGARSS page](https://2023.ieeeigarss.org/tutorials.php#tut109)
+* [Website](/)
+
 ## Table of contents
 
 TODO add table of contents
