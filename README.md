@@ -2,7 +2,11 @@
 
 This is the repository for the Tutorial on [Deep Learning for Natural Hazards (DL4NH)](https://2023.ieeeigarss.org/tutorials.php#tut109) in IGARSS 2023.
 
-Presented by [Nikolaos-Ioannis Bountos](https://ngbountos.github.io/), [Ioannis Prapas](https://iprapas.github.io), [Spyros Kondylatos](https://github.com/skondylatos/), [Maria Sdraka](https://github.com/paren8esis/), and [Ioannis Papoutsis](https://scholar.google.gr/citations?user=46cBUO8AAAAJ) from [Orion Lab](http://orionlab.space.noa.gr/), Institute for Astronomy, Astrophysics, Space Applications and Remote Sensing, National Observatory of Athens
+Presented by [Nikolaos-Ioannis Bountos](https://ngbountos.github.io/) (1), [Ioannis Prapas](https://iprapas.github.io) (1, 2), [Spyros Kondylatos](https://github.com/skondylatos/) (1, 2), [Maria Sdraka](https://github.com/paren8esis/) (1), and [Ioannis Papoutsis](https://scholar.google.gr/citations?user=46cBUO8AAAAJ) (1) 
+
+(1) [Orion Lab](http://orionlab.space.noa.gr/), Institute for Astronomy, Astrophysics, Space Applications and Remote Sensing, National Observatory of Athens
+
+(2) [Image & Signal Processing Group](https://isp.uv.es/), Universitat de València
 
 ## Table of contents
 
