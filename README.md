@@ -10,16 +10,16 @@ Presented by [Nikolaos-Ioannis Bountos](https://ngbountos.github.io/) (1), [Ioan
 
 ## 🕸️ Quick Links
 
-TODO: Add correct links
+| Time          | Title          | Resources                       | Presenter         |
+|---------------|----------------|---------------------------------|-------------------|
+| 9.00 - 9.30   | Introduction   | [Presentation]()                | Ioannis Papoutsis |
+| 9.30 - 10.15  |                | [Presentation](), [Hands-on]()  | Ioannis Prapas    |
+| 10.15 - 11.00 |                | [Presentation]()                | Nikolaos Bountos  |
+| 11.00 - 11.10 | *Coffee Break* |                                 |                   |
+| 11.10 - 11.55 |                | [Presentation](), [Hands-on]()  | Spyros Kondylatos |
+| 11.55 - 12.00 | Conclusion     | [Presentation]()                | Ioannis Papoutsis |
 
-* [Presentations](/)
-* [Notebooks](/)
 * [IGARSS page](https://2023.ieeeigarss.org/tutorials.php#tut109)
-* [Website](/)
-
-## Table of contents
-
-TODO add table of contents
 
 ## Description
 
