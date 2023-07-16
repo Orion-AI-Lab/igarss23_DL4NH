@@ -8,7 +8,7 @@ Presented by [Nikolaos-Ioannis Bountos](https://ngbountos.github.io/) (1), [Ioan
 
 (2) [Image & Signal Processing Group](https://isp.uv.es/), Universitat de València
 
-## 🕸️ Quick Links
+## 🕸️ Agenda & Quick Links
 
 | Time          | Title          | Resources                       | Presenter         |
 |---------------|----------------|---------------------------------|-------------------|
@@ -19,7 +19,7 @@ Presented by [Nikolaos-Ioannis Bountos](https://ngbountos.github.io/) (1), [Ioan
 | 11.10 - 11.55 |                | [Presentation](), [Hands-on]()  | Spyros Kondylatos |
 | 11.55 - 12.00 | Conclusion     | [Presentation]()                | Ioannis Papoutsis |
 
-* [IGARSS page](https://2023.ieeeigarss.org/tutorials.php#tut109)
+[IGARSS page](https://2023.ieeeigarss.org/tutorials.php#tut109)
 
 ## Description
 
@@ -44,11 +44,9 @@ The tutorial will cover the following subjects in particular:
 
 We assume basic knowledge of ML/DL methods, python and earth observation.
 
-In this tutorial we will provide working examples in the form of Jupyter notebooks along with the necessary data. The users are required to have a laptop equipped with a modern browser. The python libraries needed will be shared before the tutorial.
+In this tutorial, we will provide working examples in the form of Jupyter notebooks along with the necessary data. The users are required to have a laptop equipped with a modern browser. 
 
-## Resources
-
-TODO add links to any resources needed. E.g. notebooks, data, presentations.
+**An account is required for access to [google colab](https://colab.research.google.com)**.
 
 ## Access 
 
@@ -60,4 +58,6 @@ Location: Room 101 (Pasadena Convention Center)
 
 ## Acknowledgements
 
-TODO add acknowledgements to people or projects involved.
+This work has received funding from the European Union’s Horizon 2020 Research and Innovation
+Projects DeepCube and TREEADS, under Grant Agreement Numbers 101004188 and 101036926
+respectively.
