@@ -57,6 +57,10 @@ Time: Sun, 16 Jul, 09:00 - 12:00 Pacific Time (UTC -7)
 
 Location: Room 101 (Pasadena Convention Center)
 
+## Contact us 
+
+For any communication about this tutorial, [please submit an issue](https://github.com/Orion-AI-Lab/igarss23_DL4NH/issues/new/choose) or [email us](mailto:ipapoutsis@noa.gr).
+
 ## Acknowledgements
 
 This work has received funding from the European Union’s Horizon 2020 Research and Innovation
