@@ -13,7 +13,7 @@ Presented by [Nikolaos-Ioannis Bountos](https://ngbountos.github.io/) (1), [Ioan
 | Time          | Title          | Resources                       | Presenter         |
 |---------------|----------------|---------------------------------|-------------------|
 | 9.00 - 9.30   | Introduction   | [Presentation](https://docs.google.com/presentation/d/1RC0MaaI6ZRM1-LDD_IQILZz78W1JK2aT/edit?usp=drive_link&ouid=103666319609428787109&rtpof=true&sd=true)                | Ioannis Papoutsis |
-| 9.30 - 10.15  |                | [Presentation](https://docs.google.com/presentation/d/1zJm792cPx72i-il6PeZDV9XuwclACroSvFSjJiccgGY/edit?usp=drive_link), [Hands-on](https://drive.google.com/file/d/1J9PWCwPGqw5xFUfSMk1mUp9pAKhbwusx/view?usp=drive_link)  | Ioannis Prapas    |
+| 9.30 - 10.15  |                | [Presentation](https://docs.google.com/presentation/d/1zJm792cPx72i-il6PeZDV9XuwclACroSvFSjJiccgGY/edit?usp=drive_link), [Hands-on](https://colab.research.google.com/drive/11uJKHF67ifle2iWtANrYgxu7KiK48Tjb?usp=drive_link)  | Ioannis Prapas    |
 | 10.15 - 11.00 |                | [Presentation]()                | Nikolaos Bountos  |
 | 11.00 - 11.10 | *Coffee Break* |                                 |                   |
 | 11.10 - 11.55 |                | [Presentation](https://docs.google.com/presentation/d/1GepCuzLx3SxiWxO3aszqR79uaUGGmd6FRC_KdJRY5qg/edit?usp=drive_link), [Hands-on](https://colab.research.google.com/drive/1LMihcZHW_YePbR0sUlGeiUvyjspp5Z24?usp=drive_link)  | Spyros Kondylatos |
